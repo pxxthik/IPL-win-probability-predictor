@@ -8,7 +8,6 @@ Welcome to the IPL Win Probability Predictor project! This repository hosts a co
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Features](#features)
 - [Getting Started](#getting-started)
   - [Installation](#installation)
 - [Acknowledgements](#acknowledgements)
@@ -16,13 +15,6 @@ Welcome to the IPL Win Probability Predictor project! This repository hosts a co
 ## Introduction
 
 Cricket enthusiasts, data scientists, and developers unite! The IPL Win Probability Predictor is designed to provide real-time win probability predictions for ongoing IPL matches. Leveraging machine learning models, historical match data, and player performance metrics, this project offers a unique perspective on the outcome of each game.
-
-## Features
-
-- **Machine Learning Magic:** Employs advanced algorithms to analyze historical data, player statistics, and match conditions.
-- **Intuitive Visualization:** Presents graphical representations of win probabilities throughout the match for easy interpretation.
-- **Web Interface:** Access predictions through a user-friendly web interface, making it accessible to a broader audience.
-- **Insightful Analysis:** Gain insights into key factors influencing win probabilities, enhancing your understanding of the game.
 
 ## Getting Started
 
