@@ -37,6 +37,6 @@ Cricket enthusiasts, data scientists, and developers unite! The IPL Win Probabil
 
 ## Acknowledgements
 
-This project is made possible by the collaborative efforts of cricket fans, data scientists, and developers passionate about bringing innovative solutions to the world of sports analytics. Special thanks to [contributors](CONTRIBUTORS.md) who have dedicated their time and expertise to this project.
+This project is made possible by the collaborative efforts of cricket fans, data scientists, and developers passionate about bringing innovative solutions to the world of sports analytics.
 
 Let's make every IPL match even more exciting by predicting the winner together! 🎉🏏
